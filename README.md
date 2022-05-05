@@ -5,3 +5,7 @@
 * Lv.3 불량 사용자 [Python](/code/kakao/3.py)
 * Lv.3 징검다리 건너기 [Python](/code/kakao/4.py)
 * Lv.4 호텔 방 배정 [Python](/code/kakao/5.py)
+
+## 2021 카카오 채용연계형 인턴십
+
+* Lv.1 숫자 문자열과 영단어 [Python](/code/kakao/6.py)
