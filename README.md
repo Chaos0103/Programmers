@@ -6,10 +6,6 @@
 * Lv.3 징검다리 건너기 [Python](/code/kakao/4.py)
 * Lv.4 호텔 방 배정 [Python](/code/kakao/5.py)
 
-## 2021 카카오 채용연계형 인턴십
-
-* Lv.1 숫자 문자열과 영단어 [Python](/code/kakao/6.py)
-
 ## 2020 카카오 인턴십
 
 * Lv.1 키패드 누르기 
@@ -17,3 +13,9 @@
 * Lv.3 보석 쇼핑 
 * Lv.3 경주로 건설 [Python](/code/kakao/9.py)
 * Lv.4 동굴 탐험 [Python](/code/kakao/10.py)
+
+## 2021 카카오 채용연계형 인턴십
+
+* Lv.1 숫자 문자열과 영단어 [Python](/code/kakao/6.py)
+* Lv.2 거리두기 확인하기 [Python](/code/kakao/7.py)
+* Lv.3 표 편집 [Python](/code/kakao/8.py)
