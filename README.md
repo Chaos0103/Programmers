@@ -12,8 +12,8 @@
 
 ## 2020 카카오 인턴십
 
-* Lv.1 키패드 누르기 [Python](/code/kakao/6.py)
-* Lv.2 수식 최대화 [Python](/code/kakao/6.py)
-* Lv.3 보석 쇼핑 [Python](/code/kakao/6.py)
-* Lv.3 경주로 건설 [Python](/code/kakao/6.py)
-* Lv.4 동굴 탐험 [Python](/code/kakao/6.py)
+* Lv.1 키패드 누르기 
+* Lv.2 수식 최대화 
+* Lv.3 보석 쇼핑 
+* Lv.3 경주로 건설 [Python](/code/kakao/9.py)
+* Lv.4 동굴 탐험 [Python](/code/kakao/10.py)
